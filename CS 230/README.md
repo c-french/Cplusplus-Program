@@ -1,17 +1,17 @@
 # Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
-
+For this project, the client was a company named The Gaming Room.  They wanted me to design a web-based game based on their currently Android-only game "Draw It or Lose It", that would be able to serve a broader range of platforms.  This would utilize design structures such as the singleton to keep track of game instances and utilize a client-server structure.
 
 # What did you do particularly well in developing this documentation?
-
+I feel that my best work on the documentation would be the explanation of the UML diagram under the *Domain Model* section.  Interpreting visual models has always been a strength of mine, and I feel that I did well to explain the given model.
 
 # What about the process of working through a design document did you find helpful when developing the code?
-
+Working through the document helps to formulate a planned structure of the program, much like an architect’s blueprints.  In past work I would have "winged it", cobbling code together until something worked, but this process works to eliminate a lot of guesswork from the program.  With this tool, I can know what my program will need before I code it, and the code I make won't be an "attempt" to address a feature, but rather be an implementation of planned work.
 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-
+I would most like to revise the *Evaluation* portion of the document.  In the current submission, I may have been a bit long-winded and repetitive about certain aspects.  Should I do this section again for another project, I would simplify the section to more of a pro/con list, rather than a long explanation.
 
 # How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
-
+I met the user's needs by designing a server that can communicate to a variety of clients no matter their platform, so long as they can send and receive HTTP requests.  This would allow The Gaming Room to distribute their game to any client of their choosing, meeting their desire of serving their game to more platforms.  It is important to consider the user's needs because their satisfaction with the software is key.  Even if you design a masterwork of a program, if the user is unsatisfied, your work means nothing to them.  From a business side of things, if the user is continually dissatisfied with your work, they will begin to look elsewhere, hurting the company’s revenue.  As such, meeting the user’s needs are tantamount to success.
 
 # How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
-
+Before taking this course, I had no structured way of creating software.  I simply cobbled together functions in an attempt to make something that worked correctly.  After this course, I see there is a much better way in the form of design patterns to tackle common problems.  Moving forward, I expect to utilize UML diagrams and more design patterns as a means to blueprint the software to be made, making the coding process more a task of assembling pieces according to plan, rather than blindly try to add things that meet functionality needs.
