@@ -1,8 +1,8 @@
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-
+Interpreting and implementing user needs is best done by breaking the need down into its smallest parts, then working from there from implementation.  For instance, if designing a game, and the user’s need is “I want to play a platformer game”, this can be broken down into several parts such as implementing a jump feature for the player, enemies for the player to avoid, and so on.  This parallels with the idea of user stories and epics.  The previous example would make for a good epic, then the smaller parts such as jumping could be represented by the user story “As a player, I want to be able to jump from platform to platform in order to reach the goal, so that I have fun.”.  Creating user stories helps to keep everything in the perspective of the user and give a reason for why the team is working on a certain feature.  Also, the user story works well to show if something may need to be broken down further.  For instance, “As a player, I want to play a platformer game, so that I have fun.” Is a user story, but what makes up a platformer? Such questions help identify if an idea is “too big” so that it can be broken down into more fundamental parts.
 
 # How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
-
+While I haven’t yet developed in a professional setting, I’ve always worked from feature to feature until I have a finished project.  That said, I hope to utilize the workflow of moving user story to user story, concurrent testing, and the Daily Scrum in my future development work.
 
 # What does it mean to be a good team member in software development?
-
+Being a good team member in software development means that you communicate with the other team members often, you aren’t afraid to ask questions or ask for help, and that you are willing to help out fellow team members with their issues as well.  Agile says that no developer on the team should be a specialist.  This isn’t due to strange hiring practices, this is because the team should work with one another and build up each other’s skillsets.  Both asking for help and giving help when needed are the cornerstone of creating such an environment.
