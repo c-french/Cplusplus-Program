@@ -16,12 +16,12 @@ In order to increase the layers of security, I started with the manual code revi
 
 # How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 
-
+After refactoring, an additional dependency check was run to ensure no additional vulnerabilities were added with the addition of new libraries.  The check showed up the same as before the refactoring, so no additional vulnerabilities were added.
 
 # What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
 
-
+The biggest tool I'm sure to find helpful in the future is the dependency check tool.  In addition to that, coding practices, such as sanitizing user input before using it as a parameter, are important to have in my toolkit moving forward.
 
 # Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
 
-
+In particular, I feel that sections 1, 3, 5 will help showcase to a potential employer my security know-how.  In most lines of work, it's important to understand the customer's issue, know how to find the issue, and know how to address the issue.  These sections in particular outline just that.  
