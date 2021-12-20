@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CS 330 Module Six Assignment.vcxproj, CS 330 Module Six Milestone.vcxproj, OpenGLSample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(444,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(475,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(476,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(483,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(484,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(491,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(492,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(499,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(500,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(508,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(509,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(699,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(700,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(704,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(705,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(707,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kaimer\Desktop\CS 330 Final Project\OpenGLSample\Source.cpp(708,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> C:\Users\Kaimer\Desktop\CS 330 Final Project\Debug\CS 330 Final Project.exe
