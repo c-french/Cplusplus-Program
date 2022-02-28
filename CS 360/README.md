@@ -1,11 +1,12 @@
 <H2>Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?</H2>
-a
+This app was made so that a user could enter in daily weight readings to a local database and edit previously made entries.  Upon reaching a set goal weight, the app would send the user a congratulational SMS message.
 <H2>What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?</H2>
-  
+Screens needed to meet these needs included a "daily weights" screen that showed a list of previous logged entries, a "add entry" screen to push new measurements into the database, and an "update entry" screen to edit or delete previously entered readings.  The designs were successful because not only did they follow given design guidelines, the views and fields are all intuitive, easy to access, and visually appealing, even if a bit basic.
 <H2>How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?</H2>
-  
+First, I made up a list of tasks the app needed to accomplish, such as setting up a SQLite database, implementing CRUD interactivity with the database, what screens would be needed, and so on.  For the screens themselves I used an image editing program to make a "mock up" of the screen so that I had an idea of how I wanted it to look without having to spend a lot of time messing with xml in the IDE to get the look I was looking for.  This strategy in particular will be useful in designing UIs for other apps in the future.
 <H2>How did you test to ensure your code was functional? Why is this process important and what did it reveal?</H2>
-  
+The code was tested manually - there weren't a large variety of different actions a user could take with the app so this was still feasible to do.  This process helped find issues with the code, such as a missed onClickListener interaction on a screen.  Testing is an important process as it helps ensure the app in development is working as intended, especially as more and more components are added to it.
 <H2>Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?</H2>
-  
+Innovation came during the development process.  I was running out of time for the deadline while working on the SMS permissions in particular, so I decided to settle with using an old button that originally asked for read/write permissions and modified it to request SMS permissions - not a particularly appealing way of handling the process, but it gave the app its needed functionality.
 <H2>In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?</H2>
+I think my best work with the app was in handling new entries to the SQLite database and UI design on the "add entry" and "update entry" screens.  The UI I feel was well designed on those ones in particular, and I had little issue implementing adding entries to the database during the development process.
